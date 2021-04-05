@@ -1,11 +1,11 @@
 # REHEMA SCHOOL PREFECTS ELECTORAL SYSTEM
  
-# NAME: DENNIS KIBET
-# INDEX: 29541201017
-# TITLE: REHEMA SCHOOL PREFECTS ELECTORAL SYSTEM
-# YEAR: 2019
-# SCHOOL: SAMOEI BOYS SECONDARY SCHOOL
-# SUPERVISOR: MR JULIAS KOGEI
+NAME: DENNIS KIBET
+INDEX: 29541201017
+TITLE: REHEMA SCHOOL PREFECTS ELECTORAL SYSTEM
+YEAR: 2019
+SCHOOL: SAMOEI BOYS SECONDARY SCHOOL
+SUPERVISOR: MR JULIAS KOGEI
 
 
 
@@ -42,7 +42,7 @@ I declare that this is my original work and has never been presented before for 
 Rehema school is a day school that has five streams in each form. The manual electoral process done by the school is slow and not accurate. The school has three main administrative levels, that is; school level, form level, and class level. The school-level comprises of posts like; head boy, head girl, dining hall captain, games captain, and the library captain. The form level comprises of the form captains who are in charge of all streams in their forms. The class level posts are the class prefects who are answerable to their respective form captains. The school elections are done at the beginning of each year and all positions are elective and holders serve for a year. The only form three students are legible for school level positions and they are elected by all students in the school.
   
 # CHAPTER ONE
-# Introduction
+## Introduction
 The new computerized system which is to replace the old manual system is to enhance the speed and accuracy of the voting process. The new system's advantages over the manual system are that it can maintain records of the whole electoral process by keeping records of classes and their class teachers list of contestants, list of students per class and the results. The new system is also able to compute total votes for each contestant at the school level, form level, and class level. It can also generate reports of voters list, list of contestants for each post list of class teachers, list of spoilt votes from each class and the list of contestants and the votes garnered. 
 
 
