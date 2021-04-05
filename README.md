@@ -54,11 +54,11 @@ The new computerized system which is to replace the old manual system is to enha
 
 
 # SYSTEM ANALYSIS
-# Problem definition
+## Problem definition
 Rehema day secondary school uses a manual system in conducting prefects elections. Data is entered manually using biros and papers. Files are used in keeping records. The school's high population has resulted in an inefficient and poor election process. Due to the bad results in the manual system, the school, therefore, needs a computerized system that would solve the problem at hand.
 A general overview of the existing manual system
 The existing system uses the manual format of data entry that is writing down the data, analyzing the data manually and the results written down. This system is tiresome and time-consuming.
-Overview of the proposed system
+##Overview of the proposed system
 The recommended system is to develop a system that would maintain records of classes and their respective class teachers, maintain a list of contestants for each post, maintain a list of electoral positions, maintain a list of students per class, maintain a list of proposers and seconders and maintain the results for each level.
 The system should also compute the total votes for each contestant at school level and form level, compute winner for each post and determine the contestants with adequate proposers and seconders.
 The new system should also generate reports of; voters list of contestants for each post, list of class teachers, list of winners for each post, list of spoilt votes for each class and list of contestants and the votes garnered
@@ -77,7 +77,7 @@ The system objectives of the new computerized system are that the system should:
 # Project scope
 Rehema day secondary school has many daily activities being carried out and prefects election is an annual event, thus the proposed system will help in reducing the time taken in carrying out the activity.
 # FEASIBILITY REPORT
-# Technical Feasibility 
+## Technical Feasibility 
 For Rehema school, the electoral system to be fully computerized there is the need for training of the school staff on the use of the system and to acquire the necessary skills for the efficient running of the new system.
 I carried research and I concluded that in developing the new system a database management system(DBMS) is the right technology to be used due to its availability in the market.
 Operational requirements needed by the computer
@@ -85,7 +85,7 @@ Keyboard
 Mouse 
 Monitor
 Software need for making the system is Microsoft access in windows
-# Operational Feasibility
+## Operational Feasibility
 Rehema school is experiencing a large population growth which renders the manual voting system slow in operation and useless. In the new computerized system, operations are fast and automated since once the votes are entered into the computer the system automatically updates and calculates the winners and the rankings of the contestants.
 The users of the new system will have a lot of ease since the new system is very accurate.
 # Schedule feasibility
