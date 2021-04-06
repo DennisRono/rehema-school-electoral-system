@@ -1,9 +1,9 @@
 # REHEMA SCHOOL PREFECTS ELECTORAL SYSTEM
 <center style="margin: 0 auto;"><img src="./img/rehema.png" /></center>
  
-<strong>NAME: <a href="" >DENNIS KIBET</a></strong>
-<strong>TITLE: REHEMA SCHOOL PREFECTS ELECTORAL SYSTEM</strong>
-<strong>YEAR: 2019</strong>
+<strong>NAME: <a href="" >DENNIS KIBET</a></strong><br>
+<strong>TITLE: REHEMA SCHOOL PREFECTS ELECTORAL SYSTEM</strong><br>
+<strong>YEAR: 2019</strong><br>
 
 
 # ACKNOWLEDGEMENT
