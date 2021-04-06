@@ -1,5 +1,5 @@
 # REHEMA SCHOOL PREFECTS ELECTORAL SYSTEM
-<center><img src="./img/rehema.png" /></center>
+<center style="margin: 0 auto;"><img src="./img/rehema.png" /></center>
  
 <strong>NAME: <a href="" >DENNIS KIBET</a></strong>
 <strong>TITLE: REHEMA SCHOOL PREFECTS ELECTORAL SYSTEM</strong>
